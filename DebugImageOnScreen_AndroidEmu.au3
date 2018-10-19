@@ -4,13 +4,14 @@
 	Author:         ProMac 2018
 
 	Script Function:
-	Template AutoIt script.
+	A small tool made in AutoIt v3 to take screenshots / grab macros / pixel color ,
+	inside the Emulator Window handle , useful for those who help us.
 
 #ce ----------------------------------------------------------------------------
 
 #AutoIt3Wrapper_Icon=Main.ico
 #AutoIt3Wrapper_Res_Description=DocOC Debug OnScreen
-#AutoIt3Wrapper_Res_Fileversion=0.0.0.5
+#AutoIt3Wrapper_Res_Fileversion=1.0.0.0
 #AutoIt3Wrapper_Res_LegalCopyright=ProMac @2018
 #AutoIt3Wrapper_Res_requestedExecutionLevel=requireAdministrator
 #AutoIt3Wrapper_Run_Au3Stripper=y
